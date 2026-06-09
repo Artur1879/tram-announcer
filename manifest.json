@@ -1,0 +1,16 @@
+{
+    "name": "Информатор трамвая",
+    "short_name": "Трамвай",
+    "description": "Информатор остановок трамвая с реальными объявлениями",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+       

@@ -1,0 +1,12 @@
+tram-informator/
+├── index.html          (главная страница)
+├── styles.css          (стили оформления)
+├── app.js             (логика работы)
+├── manifest.json      (для установки как приложение)
+├── service-worker.js  (для офлайн-работы)
+├── routes.json        (данные маршрутов)
+├── icons/
+│   ├── icon-192.png
+│   └── icon-512.png
+└── audio/            (папка для ваших аудиофайлов)
+    └── .gitkeep
